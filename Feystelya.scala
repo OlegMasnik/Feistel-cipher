@@ -1,8 +1,6 @@
-package zi
-
 import java.math.BigInteger
 
-object TestByte extends App {
+object Feystelya extends App {
   val rounds = 28;
 
   val str = "hello"
