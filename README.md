@@ -1,2 +1,2 @@
-# Symmetric-encryption-algorithm
-example of the symmetric encryption algorithm
+# Feistel cipher
+example of the Feistel cipher
